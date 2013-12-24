@@ -14,7 +14,7 @@ $_config['db']['1']['tablepre'] = 'pre18_';
 $_config['db']['slave'] = '';
 $_config['db']['common']['slave_except_table'] = '';
 
-// --------------------------  CONFIG MEMORY  --------------------------- //
+// --------------------------  CONFIG MEMORY  ----111111111111----------------------- //
 $_config['memory']['prefix'] = 'LLPOax_';
 $_config['memory']['redis']['server'] = '';
 $_config['memory']['redis']['port'] = 6379;
